@@ -44,7 +44,8 @@
     "solargraph.diagnostics": false,
     "solargraph.definitions": true,
     "solargraph.completion": true,
-    "solargraph.references": true
+    "solargraph.references": true,
+    "solargraph.checkGemVersion": false
   }
   ```
 
