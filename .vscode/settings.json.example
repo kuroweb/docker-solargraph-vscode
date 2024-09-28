@@ -1,0 +1,12 @@
+{
+  "solargraph.transport": "external",
+  "solargraph.externalServer": {
+    "host": "localhost",
+    "port": 7658
+  },
+  "solargraph.useBundler": true,
+  "solargraph.diagnostics": false,
+  "solargraph.definitions": true,
+  "solargraph.completion": true,
+  "solargraph.references": true
+}
